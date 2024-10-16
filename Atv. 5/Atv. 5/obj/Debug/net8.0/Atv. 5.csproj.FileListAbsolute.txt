@@ -1,0 +1,15 @@
+C:\Users\José Barbosa\Desktop\BackEnd\Exercicíos\Atv. 5\Atv. 5\obj\Debug\net8.0\Atv. 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\José Barbosa\Desktop\BackEnd\Exercicíos\Atv. 5\Atv. 5\obj\Debug\net8.0\Atv. 5.AssemblyInfoInputs.cache
+C:\Users\José Barbosa\Desktop\BackEnd\Exercicíos\Atv. 5\Atv. 5\obj\Debug\net8.0\Atv. 5.AssemblyInfo.cs
+C:\Users\José Barbosa\Desktop\BackEnd\Exercicíos\Atv. 5\Atv. 5\obj\Debug\net8.0\Atv. 5.csproj.CoreCompileInputs.cache
+C:\Users\José Barbosa\Desktop\BackEnd\Exercicíos\Atv. 5\Atv. 5\obj\Debug\net8.0\Atv. 5.sourcelink.json
+C:\Users\José Barbosa\Desktop\BackEnd\Exercicíos\Atv. 5\Atv. 5\bin\Debug\net8.0\Atv. 5.exe
+C:\Users\José Barbosa\Desktop\BackEnd\Exercicíos\Atv. 5\Atv. 5\bin\Debug\net8.0\Atv. 5.deps.json
+C:\Users\José Barbosa\Desktop\BackEnd\Exercicíos\Atv. 5\Atv. 5\bin\Debug\net8.0\Atv. 5.runtimeconfig.json
+C:\Users\José Barbosa\Desktop\BackEnd\Exercicíos\Atv. 5\Atv. 5\bin\Debug\net8.0\Atv. 5.dll
+C:\Users\José Barbosa\Desktop\BackEnd\Exercicíos\Atv. 5\Atv. 5\bin\Debug\net8.0\Atv. 5.pdb
+C:\Users\José Barbosa\Desktop\BackEnd\Exercicíos\Atv. 5\Atv. 5\obj\Debug\net8.0\Atv. 5.dll
+C:\Users\José Barbosa\Desktop\BackEnd\Exercicíos\Atv. 5\Atv. 5\obj\Debug\net8.0\refint\Atv. 5.dll
+C:\Users\José Barbosa\Desktop\BackEnd\Exercicíos\Atv. 5\Atv. 5\obj\Debug\net8.0\Atv. 5.pdb
+C:\Users\José Barbosa\Desktop\BackEnd\Exercicíos\Atv. 5\Atv. 5\obj\Debug\net8.0\Atv. 5.genruntimeconfig.cache
+C:\Users\José Barbosa\Desktop\BackEnd\Exercicíos\Atv. 5\Atv. 5\obj\Debug\net8.0\ref\Atv. 5.dll
