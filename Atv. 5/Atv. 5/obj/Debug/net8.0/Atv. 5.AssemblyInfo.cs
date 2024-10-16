@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Atv. 5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63fc91dcd0137e3e091b72582cf9be2333864cd8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b907715732d5bc286b1afb84d04d2d2ecc13e05e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Atv. 5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Atv. 5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
